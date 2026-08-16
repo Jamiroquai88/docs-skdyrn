@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-1w7ct6.indocuansite.space/sitemap.xml
